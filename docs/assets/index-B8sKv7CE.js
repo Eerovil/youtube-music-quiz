@@ -1,4 +1,4 @@
-(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="18bfb21a-6efe-40a6-8331-b5a458c785e5",e._sentryDebugIdIdentifier="sentry-dbid-18bfb21a-6efe-40a6-8331-b5a458c785e5")}catch{}})();var Ec=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};Ec.SENTRY_RELEASE={id:"65470dfba78654863db07de826715004b24e933c"};(function(){const t=document.createElement("link").relList;if(t&&t.supports&&t.supports("modulepreload"))return;for(const s of document.querySelectorAll('link[rel="modulepreload"]'))r(s);new MutationObserver(s=>{for(const o of s)if(o.type==="childList")for(const i of o.addedNodes)i.tagName==="LINK"&&i.rel==="modulepreload"&&r(i)}).observe(document,{childList:!0,subtree:!0});function n(s){const o={};return s.integrity&&(o.integrity=s.integrity),s.referrerPolicy&&(o.referrerPolicy=s.referrerPolicy),s.crossOrigin==="use-credentials"?o.credentials="include":s.crossOrigin==="anonymous"?o.credentials="omit":o.credentials="same-origin",o}function r(s){if(s.ep)return;s.ep=!0;const o=n(s);fetch(s.href,o)}})();/**
+(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="fdc15513-985b-4159-8b12-1e94b6c27fa8",e._sentryDebugIdIdentifier="sentry-dbid-fdc15513-985b-4159-8b12-1e94b6c27fa8")}catch{}})();var Ec=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};Ec.SENTRY_RELEASE={id:"23ce4cd4729e116253ca73856b53743b643914ec"};(function(){const t=document.createElement("link").relList;if(t&&t.supports&&t.supports("modulepreload"))return;for(const s of document.querySelectorAll('link[rel="modulepreload"]'))r(s);new MutationObserver(s=>{for(const o of s)if(o.type==="childList")for(const i of o.addedNodes)i.tagName==="LINK"&&i.rel==="modulepreload"&&r(i)}).observe(document,{childList:!0,subtree:!0});function n(s){const o={};return s.integrity&&(o.integrity=s.integrity),s.referrerPolicy&&(o.referrerPolicy=s.referrerPolicy),s.crossOrigin==="use-credentials"?o.credentials="include":s.crossOrigin==="anonymous"?o.credentials="omit":o.credentials="same-origin",o}function r(s){if(s.ep)return;s.ep=!0;const o=n(s);fetch(s.href,o)}})();/**
 * @vue/shared v3.4.26
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
@@ -47,37 +47,37 @@ ${t.map((s,o)=>`${(o===0?"---> ":yg(" ",5+o*2))+(Array.isArray(s)?`${mn(s[0])}..
             Tutankhamen;FNjRfjJEF20
             Nymphomaniac Fantasia;5F3ZK52HzZg
             Know Why The Nightingale Sings;0mEGX4z6BZk
-            Lappi;FN04hmGUDbI
+            Lappi;pxl3jAMuN7M
             Return To The Sea;3zFmsW078aI
-            Once Upon A Troubadour;UW68klXvnBk
+            Once Upon A Troubadour;pTzpx-dsGPc
             `},{title:"Oceanborn",data:`
-            Stargazers;rdF3ntssZhE
-            Gethsemane;5VgLLDekYcI
-            Devil & The Deep Dark Ocean;bJbqgoDovgQ
-            Sacrament of Wilderness;G5dJeNay_XU
-            Passion And The Opera;gBPkkahVScc
-            Swanheart;8Wb5ABApAVU
-            Moondance;ariULvFxwMM
-            The Riddler;UsiexyqgkNM
-            The Pharaoh Sails To Orion;qRugk6vx9YY
-            Walking In The Air;eCJrzz86IVc
-            Sleeping Sun;QDLh9blnyvY
-            Nightquest;06Jj4AdDdBA
+            Stargazers;P0O6d4-odEA
+            Gethsemane;BYxfmzyIYfk
+            Devil & The Deep Dark Ocean;KqwvEowkY_0
+            Sacrament of Wilderness;FzceqsnsRyA
+            Passion And The Opera;xWnuv2v3nXQ
+            Swanheart;pfvqzHu-VPE
+            Moondance;4XAjn8VXieQ
+            The Riddler;dhTq_ocnYDg
+            The Pharaoh Sails To Orion;81xrNu0MowY
+            Walking In The Air;6BGcneQMrKU
+            Sleeping Sun;tNDCFQdi7oU
+            Nightquest;pgEZS-nyoh4
             `},{title:"Wishmaster",data:`
-            She Is My Sin;eyqoNXVriOo
-            The Kinslayer;vBBokOsDMgA
-            Come Cover Me;oD50SZFiuEs
-            Two For Tragedy;q48lzqe4iJ4
-            Wanderlust;c7x3ifHWKUM
-            Wishmaster;IoIThfJfJpw
-            Bare Grace Misery;DxaCXoL7A_k
-            Crownless;hzpumFHRBU0
-            Deep Silent Complete;Po5oWa7OX2k
-            Dead Boy's Poem;LQZzoEHCV-w
-            FantasMic;bO_UUaj-QLM
-            Sleepwalker;M9fY81gSk_Y
+            She Is My Sin;iUaa0s44w5g
+            The Kinslayer;kGocsn-Zzmg
+            Come Cover Me;u6z8i7LFPNQ
+            Two For Tragedy;oKU6y46ybO0
+            Wanderlust;RBCzeUlBlQg
+            Wishmaster;VyC_puO0ESU
+            Bare Grace Misery;2tSgAduee8o
+            Crownless;cvfiyT8XNrE
+            Deep Silent Complete;jn1HCdaWRAo
+            Dead Boy's Poem;85pt09RUl6E
+            FantasMic;xFTSbZ3SeJE
+            Sleepwalker;L9rGeglGm84
             `},{title:"Over The Hills And Far Away EP",data:`
-            Over The Hills And Far Away;4CFORwwrExM
+            Over The Hills And Far Away;_Bk0PlEIpa8
             10th Man Down;flj6AKoWE3k
             Away;Hg84k2CNNas
             `},{title:"Century Child",data:`
@@ -106,7 +106,7 @@ ${t.map((s,o)=>`${(o===0?"---> ":yg(" ",5+o*2))+(Array.isArray(s)?`${mn(s[0])}..
             Kuolema Tekee Taiteilijan;O8EuSKJalqI
             Higher than Hope;EkcRFT_qDVI
             White night Fantasy;EuWPAlawko0
-            Live to Tell the Tale;YupcxzLbBz8
+            Live to Tell the Tale;Ms_pM1pxdik
             `},{title:"Dark Passion Play",data:`
             The Poet and the Pendulum;2bPi2ojKOmI
             Bye Bye Beautiful;hTdhXxxWREo
@@ -124,19 +124,19 @@ ${t.map((s,o)=>`${(o===0?"---> ":yg(" ",5+o*2))+(Array.isArray(s)?`${mn(s[0])}..
             Escapist;eKuCFk1j_Io
             While Your Lips Are Still Red;Kmiw4FYTg2U
             `},{title:"Imaginaerum",data:`
-            Taikatalvi;pkdzpdLK3iA
-            Storytime;-nj3hwwxovY
-            Ghost River;6JZ-FQ2dgXE
-            Slow, Love, Slow;_7gk64ko4eU
-            I Want My Tears Back;mxw5gF4BT6Y
-            Scaretale;SPLP1YUfxKo
-            Arabesque;nCtNgqirjMs
-            Turn Loose The Mermaids;KJ4yGAymH9Q
-            Rest Calm;XFt94quMo9U
-            The Crow, The Owl And The Dove;-YE-FcOUAO8
-            Last Ride Of The Day;EYnZxMT-UOk
-            Song Of Myself;SLIX1nVoam4
-            Imaginaerum;7xB4nlZ-Vus
+            Taikatalvi;Adp6xNEt4T4
+            Storytime;Us0Z6t70IXo
+            Ghost River;sWzrsgJQ5d8
+            Slow, Love, Slow;wbaqY2HD01k
+            I Want My Tears Back;UIBXvvexSCI
+            Scaretale;_f2E0I9i7Xg
+            Arabesque;sVbhfbnIXYo
+            Turn Loose The Mermaids;BR_WZZ4aIfU
+            Rest Calm;fWD2YS_2Q-U
+            The Crow, The Owl And The Dove;9hpf9-iggYY
+            Last Ride Of The Day;tr-MYHCLmfo
+            Song Of Myself;lAvOoxLJKqs
+            Imaginaerum;Yk9CcGvj7NA
             The Heart Asks Pleasure First;4RVmGpImbdk
             `},{title:"Endless Forms Most Beautiful",data:`
             Shudder Before The Beautiful;JvgzGqAbHYE
@@ -177,4 +177,4 @@ ${t.map((s,o)=>`${(o===0?"---> ":yg(" ",5+o*2))+(Array.isArray(s)?`${mn(s[0])}..
             Lanternlight;1Upr5yW4nAk
             `}]},um=e=>{const t=[],n=lm[e];if(!n)return t;for(const r of n){const o=r.data.split(`
 `).filter(i=>!!i.trim()).map(i=>{const a=i.split(";"),c=a[1].trim();return{title:a[0].trim(),id:c,thumbnail:`https://i.ytimg.com/vi/${c}/hqdefault.jpg`}});t.push({title:r.title,links:o})}return t},fm=Ms({__name:"GameMain",setup(e){const t=se([]);return t.value=um("nightwish"),(n,r)=>(oe(),xa(cm,{selectedVideos:t.value},null,8,["selectedVideos"]))}}),dm=Ms({__name:"App",setup(e){return(t,n)=>(oe(),pe("main",null,[Ke(fm)]))}}),Sc=zu(dm);kg({app:Sc,dsn:"https://cf4edc60a664b3f03a3b9f2e6e88d83d@o4508184908791808.ingest.de.sentry.io/4508184911413328",integrations:[]});Sc.mount("#app");
-//# sourceMappingURL=index-Ciz6j_Hp.js.map
+//# sourceMappingURL=index-B8sKv7CE.js.map
