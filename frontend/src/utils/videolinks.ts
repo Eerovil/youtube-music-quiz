@@ -48,49 +48,49 @@ const videoLinks: { [key: string]: VideoLinkGroup[] } = {
             Tutankhamen;FNjRfjJEF20
             Nymphomaniac Fantasia;5F3ZK52HzZg
             Know Why The Nightingale Sings;0mEGX4z6BZk
-            Lappi;FN04hmGUDbI
+            Lappi;pxl3jAMuN7M
             Return To The Sea;3zFmsW078aI
-            Once Upon A Troubadour;UW68klXvnBk
+            Once Upon A Troubadour;pTzpx-dsGPc
             `
         },
         {
             title: "Oceanborn",
             data: `
-            Stargazers;rdF3ntssZhE
-            Gethsemane;5VgLLDekYcI
-            Devil & The Deep Dark Ocean;bJbqgoDovgQ
-            Sacrament of Wilderness;G5dJeNay_XU
-            Passion And The Opera;gBPkkahVScc
-            Swanheart;8Wb5ABApAVU
-            Moondance;ariULvFxwMM
-            The Riddler;UsiexyqgkNM
-            The Pharaoh Sails To Orion;qRugk6vx9YY
-            Walking In The Air;eCJrzz86IVc
-            Sleeping Sun;QDLh9blnyvY
-            Nightquest;06Jj4AdDdBA
+            Stargazers;P0O6d4-odEA
+            Gethsemane;BYxfmzyIYfk
+            Devil & The Deep Dark Ocean;KqwvEowkY_0
+            Sacrament of Wilderness;FzceqsnsRyA
+            Passion And The Opera;xWnuv2v3nXQ
+            Swanheart;pfvqzHu-VPE
+            Moondance;4XAjn8VXieQ
+            The Riddler;dhTq_ocnYDg
+            The Pharaoh Sails To Orion;81xrNu0MowY
+            Walking In The Air;6BGcneQMrKU
+            Sleeping Sun;tNDCFQdi7oU
+            Nightquest;pgEZS-nyoh4
             `
         },
         {
             title: "Wishmaster",
             data: `
-            She Is My Sin;eyqoNXVriOo
-            The Kinslayer;vBBokOsDMgA
-            Come Cover Me;oD50SZFiuEs
-            Two For Tragedy;q48lzqe4iJ4
-            Wanderlust;c7x3ifHWKUM
-            Wishmaster;IoIThfJfJpw
-            Bare Grace Misery;DxaCXoL7A_k
-            Crownless;hzpumFHRBU0
-            Deep Silent Complete;Po5oWa7OX2k
-            Dead Boy's Poem;LQZzoEHCV-w
-            FantasMic;bO_UUaj-QLM
-            Sleepwalker;M9fY81gSk_Y
+            She Is My Sin;iUaa0s44w5g
+            The Kinslayer;kGocsn-Zzmg
+            Come Cover Me;u6z8i7LFPNQ
+            Two For Tragedy;oKU6y46ybO0
+            Wanderlust;RBCzeUlBlQg
+            Wishmaster;VyC_puO0ESU
+            Bare Grace Misery;2tSgAduee8o
+            Crownless;cvfiyT8XNrE
+            Deep Silent Complete;jn1HCdaWRAo
+            Dead Boy's Poem;85pt09RUl6E
+            FantasMic;xFTSbZ3SeJE
+            Sleepwalker;L9rGeglGm84
             `
         },
         {
             title: "Over The Hills And Far Away EP",
             data: `
-            Over The Hills And Far Away;4CFORwwrExM
+            Over The Hills And Far Away;_Bk0PlEIpa8
             10th Man Down;flj6AKoWE3k
             Away;Hg84k2CNNas
             `
@@ -127,7 +127,7 @@ const videoLinks: { [key: string]: VideoLinkGroup[] } = {
             Kuolema Tekee Taiteilijan;O8EuSKJalqI
             Higher than Hope;EkcRFT_qDVI
             White night Fantasy;EuWPAlawko0
-            Live to Tell the Tale;YupcxzLbBz8
+            Live to Tell the Tale;Ms_pM1pxdik
             `
         },
         {
@@ -153,19 +153,19 @@ const videoLinks: { [key: string]: VideoLinkGroup[] } = {
         {
             title: "Imaginaerum",
             data: `
-            Taikatalvi;pkdzpdLK3iA
-            Storytime;-nj3hwwxovY
-            Ghost River;6JZ-FQ2dgXE
-            Slow, Love, Slow;_7gk64ko4eU
-            I Want My Tears Back;mxw5gF4BT6Y
-            Scaretale;SPLP1YUfxKo
-            Arabesque;nCtNgqirjMs
-            Turn Loose The Mermaids;KJ4yGAymH9Q
-            Rest Calm;XFt94quMo9U
-            The Crow, The Owl And The Dove;-YE-FcOUAO8
-            Last Ride Of The Day;EYnZxMT-UOk
-            Song Of Myself;SLIX1nVoam4
-            Imaginaerum;7xB4nlZ-Vus
+            Taikatalvi;Adp6xNEt4T4
+            Storytime;Us0Z6t70IXo
+            Ghost River;sWzrsgJQ5d8
+            Slow, Love, Slow;wbaqY2HD01k
+            I Want My Tears Back;UIBXvvexSCI
+            Scaretale;_f2E0I9i7Xg
+            Arabesque;sVbhfbnIXYo
+            Turn Loose The Mermaids;BR_WZZ4aIfU
+            Rest Calm;fWD2YS_2Q-U
+            The Crow, The Owl And The Dove;9hpf9-iggYY
+            Last Ride Of The Day;tr-MYHCLmfo
+            Song Of Myself;lAvOoxLJKqs
+            Imaginaerum;Yk9CcGvj7NA
             The Heart Asks Pleasure First;4RVmGpImbdk
             `
         },
